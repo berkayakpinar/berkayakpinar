@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/hYcbxrB/peeps-avatar.png">
+<img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/Insurance-Leadspace-Aniamted.gif">
 
 <p align="left"> <a href="https://twitter.com/berkayakpinar10" target="blank"><img src="https://img.shields.io/twitter/follow/berkayakpinar10?logo=twitter&style=for-the-badge" alt="berkayakpinar10" /></a> </p>
 
